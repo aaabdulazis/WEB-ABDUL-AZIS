@@ -1,0 +1,40 @@
+body {
+    background-color: #FFEFD5;
+    height: 400px;
+  }
+  header {
+    height: 75px;
+    background-color: #DDA0DD;
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  header .header-1 {
+    background-color: #AFEEEE;
+    height: 50px;
+    width: 140px;
+    margin-left: 10px;  
+  }
+  header .header-2  {
+    background-color: #98FB98;
+    height: 50px;
+    width: 535px;
+    margin-right: 10px;
+    display: flex;
+    align-items: center;
+  }
+  
+  header-2 .home, .Instagram, .About  {
+    margin-left: 15px; 
+  }
+  .home #home1{
+    color: red;
+  }
+  
+  p {
+    margin-left: 10px;
+  }
+  
